@@ -1,5 +1,5 @@
 input_file=open("dd.txt",'r')
-for line in input_fine:
+for line in input_file:
     l=len(line)
     s=''
     while(1>=1):
